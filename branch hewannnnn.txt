@@ -1,4 +1,4 @@
-Listing branches:
+isting branches:
 ----------------
 1,  git branch -- list branch
 
