@@ -1,4 +1,0 @@
-practicing the three states 
-	- Modify
-	- Staging
-	- Committ
